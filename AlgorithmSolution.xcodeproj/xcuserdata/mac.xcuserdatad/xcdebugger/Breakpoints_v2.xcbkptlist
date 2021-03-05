@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2146A17A-F30E-484B-B988-235C72BE5101"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25EF6F35-A514-4B23-B13E-D035A05B48B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlgorithmSolution/Sort/Sort.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "bubbleSort(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25EF6F35-A514-4B23-B13E-D035A05B48B5 - 6453665efa5d3b03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlgorithmSolution.AlgorithmSolution.bubbleSort(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AlgorithmSolution"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Martin/iOS/AlgorithmSolution/AlgorithmSolution/Sort/Sort.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1609">
+               </Location>
+               <Location
+                  uuid = "25EF6F35-A514-4B23-B13E-D035A05B48B5 - be06b57bd17c5d50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlgorithmSolutionTests.AlgorithmSolution.bubbleSort(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AlgorithmSolutionTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Martin/iOS/AlgorithmSolution/AlgorithmSolution/Sort/Sort.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1609">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E0A93FF-E6E9-4D8B-9323-E04E89024A7A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlgorithmSolution/Test/Test-1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "AlgorithmSolution"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E3FB4C9-F1F7-4DB2-965E-ACAC08197C96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlgorithmSolution/Test/Test-1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "solution(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E3FB4C9-F1F7-4DB2-965E-ACAC08197C96 - 6b0a5163f73e789c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlgorithmSolution.AlgorithmSolution.solution(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "AlgorithmSolution"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Martin/iOS/AlgorithmSolution/AlgorithmSolution/Test/Test-1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1330">
+               </Location>
+               <Location
+                  uuid = "2E3FB4C9-F1F7-4DB2-965E-ACAC08197C96 - de7dba7e564eef1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlgorithmSolutionTests.AlgorithmSolution.solution(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "AlgorithmSolutionTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Martin/iOS/AlgorithmSolution/AlgorithmSolution/Test/Test-1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1330">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C2A42A5-3359-4EC4-B631-37ADE7B8B3E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlgorithmSolution/Test/Test-1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "solution(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C2A42A5-3359-4EC4-B631-37ADE7B8B3E4 - 6b0a5163f73e7b84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlgorithmSolution.AlgorithmSolution.solution(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "AlgorithmSolution"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Martin/iOS/AlgorithmSolution/AlgorithmSolution/Test/Test-1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1025">
+               </Location>
+               <Location
+                  uuid = "1C2A42A5-3359-4EC4-B631-37ADE7B8B3E4 - de7dba7e564eec04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlgorithmSolutionTests.AlgorithmSolution.solution(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "AlgorithmSolutionTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Martin/iOS/AlgorithmSolution/AlgorithmSolution/Test/Test-1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1025">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
